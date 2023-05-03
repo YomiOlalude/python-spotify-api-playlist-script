@@ -1,2 +1,6 @@
 venv/
 .cache
+venv
+./venv
+.venv
+/venv
